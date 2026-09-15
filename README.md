@@ -1,3 +1,5 @@
-<img width="5960" alt="prova" src="https://github.com/user-attachments/assets/a3801f02-73ae-422a-babc-7f65cea47560" />
+<img width="5960" height="3980" alt="banner_intro" src="https://github.com/user-attachments/assets/146e7b36-bd7a-471e-afbd-0348eb1f5665" />
 <hr>
-<img width="5960" height="4100" alt="Frame 22" src="https://github.com/user-attachments/assets/46ab1631-9334-4209-8b06-99cee74cf530" />
+<img width="5960" height="4100" alt="banner_about_me" src="https://github.com/user-attachments/assets/955bd54a-290d-4289-bb9d-d6bc4b1a2f6f" />
+<img width="1192" height="505" alt="banner_contacts" src="https://github.com/user-attachments/assets/5e1149a0-f817-4fdb-8924-5367943c0f41" />
+
